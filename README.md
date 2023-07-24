@@ -1,0 +1,2 @@
+# qm
+Quine McCluskey solver
